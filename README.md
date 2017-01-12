@@ -2,7 +2,7 @@
 
 Prevent display sleep and enable wake lock in all Android and iOS web browsers.
 
-Check out the [live demo](https://richtr.github.io/NoSleep.js/example.html) in any Android or iOS web browser.
+Check out the [live demo](https://ilkkah.github.io/NoSleep.js/example2.html) in any Android or iOS web browser.
 
 ## Installation
 
